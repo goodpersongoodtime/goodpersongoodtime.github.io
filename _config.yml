@@ -1,4 +1,3 @@
-```yaml
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
@@ -239,4 +238,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-```
